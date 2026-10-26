@@ -1,27 +1,25 @@
 <div align="center">
-<img src="./assets/cyberpunk-hero.svg" width="100%" alt="Cyberpunk animated AI Engineer hero"/>
+<img src="./assets/jarvis-hero.svg" width="100%" alt="JARVIS animated arc reactor command center"/>
 <br/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=800&color=F92AD0&center=true&vCenter=true&width=850&lines=%3E+BOOTING+AGENTIC+INTELLIGENCE...;%3E+BUILDING+AUTONOMOUS+MULTI-AGENT+SYSTEMS;%3E+RESEARCHING+THE+NEXT+GENERATION+OF+AI;%3E+SECURE+BY+DESIGN.+BUILT+TO+SCALE." alt="Animated cyberpunk terminal text"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2800&pause=800&color=20DFFF&center=true&vCenter=true&width=900&lines=J.A.R.V.I.S.+PERSONAL+INTERFACE+ONLINE;AGENTIC+AI+%7C+AUTONOMOUS+SYSTEMS;MULTI-AGENT+ORCHESTRATION+%7C+LLM+ENGINEERING;SYSTEM+STATUS%3A+READY+TO+DEPLOY" alt="JARVIS system status"/>
 <br/>
-<a href="mailto:chrismanoj62@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT-EMAIL-ff29ce?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Manoj-619"><img src="https://img.shields.io/badge/GITHUB-MANOJ--619-25eaff?style=for-the-badge&logo=github&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/LOCATION-BENGALURU-9b35ff?style=for-the-badge"/>
+<a href="mailto:chrismanoj62@gmail.com"><img src="https://img.shields.io/badge/TRANSMIT-EMAIL-f5a34c?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Manoj-619"><img src="https://img.shields.io/badge/GITHUB-MANOJ--619-20dfff?style=for-the-badge&logo=github&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/LOCATION-BENGALURU-0a82b9?style=for-the-badge"/>
 </div>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d95,25:9d4dff,50:00e5ff,75:00ffb3,100:ffcc00&height=5&section=header" width="100%" alt="Rainbow neon separator"/></div>
-
-<img src="./assets/section-01.svg" width="100%" alt="Operator profile"/>
+<img src="./assets/jarvis-section-01.svg" width="100%" alt="OPERATOR PROFILE"/>
 <div align="center">
-<img src="https://img.shields.io/badge/AGENTIC_AI-ff2d95?style=for-the-badge&labelColor=130b29" alt="AGENTIC AI"/>
+<img src="https://img.shields.io/badge/AGENTIC_AI-f5a34c?style=for-the-badge&labelColor=130b29" alt="AGENTIC AI"/>
 <img src="https://img.shields.io/badge/MULTI_AGENT_SYSTEMS-00e5ff?style=for-the-badge&labelColor=130b29" alt="MULTI AGENT SYSTEMS"/>
-<img src="https://img.shields.io/badge/LANGGRAPH-a855f7?style=for-the-badge&labelColor=130b29" alt="LANGGRAPH"/>
+<img src="https://img.shields.io/badge/LANGGRAPH-20dfff?style=for-the-badge&labelColor=130b29" alt="LANGGRAPH"/>
 <img src="https://img.shields.io/badge/LANGCHAIN-00ffb3?style=for-the-badge&labelColor=130b29" alt="LANGCHAIN"/>
 <img src="https://img.shields.io/badge/LLM_OPS-ffcc00?style=for-the-badge&labelColor=130b29" alt="LLM OPS"/>
 <img src="https://img.shields.io/badge/PYTORCH-ff6b35?style=for-the-badge&labelColor=130b29" alt="PYTORCH"/>
-<img src="https://img.shields.io/badge/MCP-ff2d95?style=for-the-badge&labelColor=130b29" alt="MCP"/>
+<img src="https://img.shields.io/badge/MCP-f5a34c?style=for-the-badge&labelColor=130b29" alt="MCP"/>
 <img src="https://img.shields.io/badge/FASTAPI-00e5ff?style=for-the-badge&labelColor=130b29" alt="FASTAPI"/>
 <img src="https://img.shields.io/badge/AWS-ffcc00?style=for-the-badge&labelColor=130b29" alt="AWS"/>
-<img src="https://img.shields.io/badge/RESEARCH-a855f7?style=for-the-badge&labelColor=130b29" alt="RESEARCH"/>
+<img src="https://img.shields.io/badge/RESEARCH-20dfff?style=for-the-badge&labelColor=130b29" alt="RESEARCH"/>
 </div>
 
 **MANOJ ABRAHAM** — Senior GenAI Engineer · Agentic AI Systems · Applied AI Research.
@@ -37,19 +35,17 @@ engineering: [Secure Tool Execution, Human-in-the-Loop, Observability, Cloud-Nat
 status: BUILDING
 ```
 
-<img src="./assets/section-02.svg" width="100%" alt="LIVE SIGNALS"/>
+<img src="./assets/jarvis-section-02.svg" width="100%" alt="LIVE SIGNALS"/>
 | ⚡ 27% lower | 🧠 10M+ nodes | 📡 2M+ / day | 🚀 50% faster |
 |:--:|:--:|:--:|:--:|
 | LLM inference latency | Knowledge graph; reported sub-100ms retrieval | Telemetry events processed | Retail data acquisition |
 | **40% faster** | **30% lower** | **20% lower** | **12+ dashboards** |
 | Analytics refresh | Security issue MTTR | Manual QA effort | BI delivery |
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d95,25:9d4dff,50:00e5ff,75:00ffb3,100:ffcc00&height=5&section=header" width="100%" alt="Rainbow neon separator"/></div>
+<img src="./assets/jarvis-section-03.svg" width="100%" alt="HOLOGRAPHIC PROJECT FEED"/>
+<div align="center"><img src="./assets/jarvis-architecture.svg" width="100%" alt="JARVIS AI system architecture blueprint"/></div>
 
-<img src="./assets/section-03.svg" width="100%" alt="Project feed"/>
-<div align="center"><img src="./assets/cyberpunk-carousel.svg" width="100%" alt="Cyberpunk animated project carousel"/></div>
-
-<img src="https://img.shields.io/badge/ENTERPRISE_AI-ENGINEERED_%26_IN_PROGRESS-ff2d95?style=for-the-badge&labelColor=12051e" alt="Enterprise systems"/>
+<img src="https://img.shields.io/badge/ENTERPRISE_AI-ENGINEERED_%26_IN_PROGRESS-f5a34c?style=for-the-badge&labelColor=12051e" alt="Enterprise systems"/>
 | Project | Scope / technologies | Stage |
 |---|---|---|
 | **Synth** | Multi-tenant autonomous agents, Docker sandbox isolation, quotas, network segmentation, MCP tools, persistent global/project/session memory, Redis pub/sub, cron/event execution, JSONL traces, SQLite FTS5, React/TypeScript operations console, token/cost monitoring | Engineered platform |
@@ -59,7 +55,7 @@ status: BUILDING
 | **PMAB Remittance Intelligence** | X12 835 / ERA denial causes, payer recurrence, payment lag, underpayments, authorization denials, coding trends | In development |
 | **AI Voice Calling** | Healthcare conversational workflows, call-state management, outcome capture, enterprise handoffs | In development; integrations project-dependent |
 
-<img src="https://img.shields.io/badge/RESEARCH_LAB-FRONTIER_EXPLORATIONS-a855f7?style=for-the-badge&labelColor=12051e" alt="Research lab"/>
+<img src="https://img.shields.io/badge/RESEARCH_LAB-FRONTIER_EXPLORATIONS-20dfff?style=for-the-badge&labelColor=12051e" alt="Research lab"/>
 | Research project | Research direction |
 |---|---|
 | **BitForge · 1-bit Edge LLMs** | BitNet b1.58, CUDA/C++, ONNX, ARM and bandwidth-constrained inference for embedded, orbital and air-gapped targets |
@@ -70,7 +66,7 @@ status: BUILDING
 
 *Research projects are exploratory or conceptual, not represented as production deployments.*
 
-<img src="https://img.shields.io/badge/PROJECT_ARCHIVE-ALL_PUBLIC_REPOSITORIES-00d8ff?style=for-the-badge&labelColor=12051e" alt="Public repository archive"/>
+<img src="https://img.shields.io/badge/PROJECT_ARCHIVE-ALL_PUBLIC_REPOSITORIES-20dfff?style=for-the-badge&labelColor=12051e" alt="Public repository archive"/>
 Every public repository currently visible under this GitHub account is linked below. Names are retained exactly as published; a repository link alone does not imply production readiness.
 
 | Repository | Access |
@@ -92,7 +88,7 @@ Every public repository currently visible under this GitHub account is linked be
 
 > Private repositories are deliberately excluded from this public index. Work already described in the resume is included above without exposing private source locations.
 
-<img src="./assets/section-04.svg" width="100%" alt="EXPERIENCE LOG"/>
+<img src="./assets/jarvis-section-04.svg" width="100%" alt="EXPERIENCE LOG"/>
 | Timeline | Position | Organization | Mission |
 |---|---|---|---|
 | Jul 2026 – Present | **Senior GenAI Engineer** | Calpion Software Technologies · Bengaluru | Healthcare AI: Zocdoc, MF28, PMAB, AI voice calling; secure Python automation |
@@ -102,7 +98,7 @@ Every public repository currently visible under this GitHub account is linked be
 | Apr – Nov 2023 | **Data Analyst** | NielsenIQ · Chennai | 230+ e-commerce sources, asyncio/Scrapy/Selenium, AWS Lambda, Step Functions, Glue/PySpark, 15+ market taxonomies |
 | Aug 2022 – Mar 2023 | **Python Developer** | Concentrix · Chennai | Symantec endpoint automation, patching, vulnerability scanning, log parsing, diagnostics, CI regression scripts |
 
-<img src="./assets/section-05.svg" width="100%" alt="CYBERDECK: TECH STACK"/>
+<img src="./assets/jarvis-section-05.svg" width="100%" alt="CYBERDECK TECH STACK"/>
 | Module | Arsenal |
 |---|---|
 | **Agent Orchestration** | LangGraph, LangChain, stateful graphs, conditional routing, supervisor-worker, MCP, tool/function calling, task scheduling |
@@ -115,7 +111,7 @@ Every public repository currently visible under this GitHub account is linked be
 | **Cloud & DevOps** | AWS EC2, S3, Lambda, SageMaker, Glue, Athena, Step Functions; Azure, Docker, Kubernetes, GitHub Actions, CI/CD, MLflow |
 | **Data & Analytics** | PostgreSQL, DynamoDB, MongoDB, SQLite, Pandas, PySpark, ETL, Power BI, Plotly |
 
-<img src="./assets/section-06.svg" width="100%" alt="SYSTEM DESIGN DOCTRINE"/>
+<img src="./assets/jarvis-section-06.svg" width="100%" alt="SYSTEM DESIGN DOCTRINE"/>
 - **Agent architecture:** Explicit tool schemas, permission boundaries, multi-step state transitions, checkpoints, escalation and replay.
 - **LLM applications:** Domain adaptation, prompt templates, structured extraction, retrieval augmentation, dialogue-state propagation, token economics and latency tuning.
 - **Distributed execution:** Sandboxed containers, asynchronous services, Redis event queues, API gateways, idempotency, retries and scheduling.
@@ -123,19 +119,19 @@ Every public repository currently visible under this GitHub account is linked be
 - **ML/Data operations:** Experiment tracking, model benchmarks, regression checks, SageMaker workflows, cloud-native ETL and release automation.
 - **Domain systems:** HIPAA X12 835/ERA, healthcare RCM, eligibility, benefits, provider network checks, Salesforce, AdvancedMD, pVerify, CentralReach.
 
-<img src="./assets/section-07.svg" width="100%" alt="ACADEMIC RECORD"/>
+<img src="./assets/jarvis-section-07.svg" width="100%" alt="ACADEMIC RECORD"/>
 **B.Tech · Information Technology** — Meenakshi Sundararajan Engineering College, Chennai · **2018–2022** · **CGPA 8.4 / 10**
 
-<img src="./assets/section-08.svg" width="100%" alt="GITHUB TELEMETRY"/>
+<img src="./assets/jarvis-section-08.svg" width="100%" alt="GITHUB TELEMETRY"/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Manoj-619&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-619&layout=compact&theme=radical&hide_border=true" height="165" alt="GitHub languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Manoj-619&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-619&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="GitHub languages"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manoj-619&bg_color=090417&color=25eaff&line=ff29ce&point=ffffff&area=true&hide_border=true" width="98%" alt="GitHub contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manoj-619&bg_color=061423&color=20dfff&line=f5a34c&point=ffffff&area=true&hide_border=true" width="98%" alt="GitHub contribution graph"/>
 </div>
 
 ---
 <div align="center">
-<code>NEURAL SYSTEMS ONLINE // INTELLIGENCE WITH GUARDRAILS // BUILD THE FUTURE</code><br/><br/>
+<code>J.A.R.V.I.S. ONLINE // AUTONOMOUS INTELLIGENCE // ENGINEERED WITH GUARDRAILS</code><br/><br/>
 <b>MANOJ ABRAHAM</b> · Bengaluru, India · <a href="mailto:chrismanoj62@gmail.com">chrismanoj62@gmail.com</a>
 </div>
