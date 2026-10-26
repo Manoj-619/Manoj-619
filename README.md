@@ -37,7 +37,7 @@ engineering: [Secure Tool Execution, Human-in-the-Loop, Observability, Cloud-Nat
 status: BUILDING
 ```
 
-## `02 // LIVE SIGNALS`
+<img src="./assets/section-02.svg" width="100%" alt="LIVE SIGNALS"/>
 | ⚡ 27% lower | 🧠 10M+ nodes | 📡 2M+ / day | 🚀 50% faster |
 |:--:|:--:|:--:|:--:|
 | LLM inference latency | Knowledge graph; reported sub-100ms retrieval | Telemetry events processed | Retail data acquisition |
@@ -92,7 +92,7 @@ Every public repository currently visible under this GitHub account is linked be
 
 > Private repositories are deliberately excluded from this public index. Work already described in the resume is included above without exposing private source locations.
 
-## `04 // EXPERIENCE LOG`
+<img src="./assets/section-04.svg" width="100%" alt="EXPERIENCE LOG"/>
 | Timeline | Position | Organization | Mission |
 |---|---|---|---|
 | Jul 2026 – Present | **Senior GenAI Engineer** | Calpion Software Technologies · Bengaluru | Healthcare AI: Zocdoc, MF28, PMAB, AI voice calling; secure Python automation |
@@ -102,7 +102,7 @@ Every public repository currently visible under this GitHub account is linked be
 | Apr – Nov 2023 | **Data Analyst** | NielsenIQ · Chennai | 230+ e-commerce sources, asyncio/Scrapy/Selenium, AWS Lambda, Step Functions, Glue/PySpark, 15+ market taxonomies |
 | Aug 2022 – Mar 2023 | **Python Developer** | Concentrix · Chennai | Symantec endpoint automation, patching, vulnerability scanning, log parsing, diagnostics, CI regression scripts |
 
-## `05 // CYBERDECK: TECH STACK`
+<img src="./assets/section-05.svg" width="100%" alt="CYBERDECK: TECH STACK"/>
 | Module | Arsenal |
 |---|---|
 | **Agent Orchestration** | LangGraph, LangChain, stateful graphs, conditional routing, supervisor-worker, MCP, tool/function calling, task scheduling |
@@ -115,7 +115,7 @@ Every public repository currently visible under this GitHub account is linked be
 | **Cloud & DevOps** | AWS EC2, S3, Lambda, SageMaker, Glue, Athena, Step Functions; Azure, Docker, Kubernetes, GitHub Actions, CI/CD, MLflow |
 | **Data & Analytics** | PostgreSQL, DynamoDB, MongoDB, SQLite, Pandas, PySpark, ETL, Power BI, Plotly |
 
-## `06 // SYSTEM DESIGN DOCTRINE`
+<img src="./assets/section-06.svg" width="100%" alt="SYSTEM DESIGN DOCTRINE"/>
 - **Agent architecture:** Explicit tool schemas, permission boundaries, multi-step state transitions, checkpoints, escalation and replay.
 - **LLM applications:** Domain adaptation, prompt templates, structured extraction, retrieval augmentation, dialogue-state propagation, token economics and latency tuning.
 - **Distributed execution:** Sandboxed containers, asynchronous services, Redis event queues, API gateways, idempotency, retries and scheduling.
@@ -123,10 +123,10 @@ Every public repository currently visible under this GitHub account is linked be
 - **ML/Data operations:** Experiment tracking, model benchmarks, regression checks, SageMaker workflows, cloud-native ETL and release automation.
 - **Domain systems:** HIPAA X12 835/ERA, healthcare RCM, eligibility, benefits, provider network checks, Salesforce, AdvancedMD, pVerify, CentralReach.
 
-## `07 // ACADEMIC RECORD`
+<img src="./assets/section-07.svg" width="100%" alt="ACADEMIC RECORD"/>
 **B.Tech · Information Technology** — Meenakshi Sundararajan Engineering College, Chennai · **2018–2022** · **CGPA 8.4 / 10**
 
-## `08 // GITHUB TELEMETRY`
+<img src="./assets/section-08.svg" width="100%" alt="GITHUB TELEMETRY"/>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Manoj-619&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub statistics"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-619&layout=compact&theme=radical&hide_border=true" height="165" alt="GitHub languages"/>
