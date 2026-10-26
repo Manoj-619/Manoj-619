@@ -8,7 +8,22 @@
 <img src="https://img.shields.io/badge/LOCATION-BENGALURU-9b35ff?style=for-the-badge"/>
 </div>
 
-## `01 // OPERATOR PROFILE`
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d95,25:9d4dff,50:00e5ff,75:00ffb3,100:ffcc00&height=5&section=header" width="100%" alt="Rainbow neon separator"/></div>
+
+<img src="./assets/section-01.svg" width="100%" alt="Operator profile"/>
+<div align="center">
+<img src="https://img.shields.io/badge/AGENTIC_AI-ff2d95?style=for-the-badge&labelColor=130b29" alt="AGENTIC AI"/>
+<img src="https://img.shields.io/badge/MULTI_AGENT_SYSTEMS-00e5ff?style=for-the-badge&labelColor=130b29" alt="MULTI AGENT SYSTEMS"/>
+<img src="https://img.shields.io/badge/LANGGRAPH-a855f7?style=for-the-badge&labelColor=130b29" alt="LANGGRAPH"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-00ffb3?style=for-the-badge&labelColor=130b29" alt="LANGCHAIN"/>
+<img src="https://img.shields.io/badge/LLM_OPS-ffcc00?style=for-the-badge&labelColor=130b29" alt="LLM OPS"/>
+<img src="https://img.shields.io/badge/PYTORCH-ff6b35?style=for-the-badge&labelColor=130b29" alt="PYTORCH"/>
+<img src="https://img.shields.io/badge/MCP-ff2d95?style=for-the-badge&labelColor=130b29" alt="MCP"/>
+<img src="https://img.shields.io/badge/FASTAPI-00e5ff?style=for-the-badge&labelColor=130b29" alt="FASTAPI"/>
+<img src="https://img.shields.io/badge/AWS-ffcc00?style=for-the-badge&labelColor=130b29" alt="AWS"/>
+<img src="https://img.shields.io/badge/RESEARCH-a855f7?style=for-the-badge&labelColor=130b29" alt="RESEARCH"/>
+</div>
+
 **MANOJ ABRAHAM** — Senior GenAI Engineer · Agentic AI Systems · Applied AI Research.
 
 4+ years across AI, machine learning, Python engineering and data platforms. I build **tool-augmented autonomous agents, multi-tenant execution environments, stateful conversational AI, production ML pipelines and healthcare revenue-cycle automation**, combining applied LLM research, secure architecture, observability, and operational reliability.
@@ -29,10 +44,12 @@ status: BUILDING
 | **40% faster** | **30% lower** | **20% lower** | **12+ dashboards** |
 | Analytics refresh | Security issue MTTR | Manual QA effort | BI delivery |
 
-## `03 // HOLOGRAPHIC PROJECT FEED`
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2d95,25:9d4dff,50:00e5ff,75:00ffb3,100:ffcc00&height=5&section=header" width="100%" alt="Rainbow neon separator"/></div>
+
+<img src="./assets/section-03.svg" width="100%" alt="Project feed"/>
 <div align="center"><img src="./assets/cyberpunk-carousel.svg" width="100%" alt="Cyberpunk animated project carousel"/></div>
 
-### `[ENTERPRISE SYSTEMS] // ENGINEERED & IN PROGRESS`
+<img src="https://img.shields.io/badge/ENTERPRISE_AI-ENGINEERED_%26_IN_PROGRESS-ff2d95?style=for-the-badge&labelColor=12051e" alt="Enterprise systems"/>
 | Project | Scope / technologies | Stage |
 |---|---|---|
 | **Synth** | Multi-tenant autonomous agents, Docker sandbox isolation, quotas, network segmentation, MCP tools, persistent global/project/session memory, Redis pub/sub, cron/event execution, JSONL traces, SQLite FTS5, React/TypeScript operations console, token/cost monitoring | Engineered platform |
@@ -42,7 +59,7 @@ status: BUILDING
 | **PMAB Remittance Intelligence** | X12 835 / ERA denial causes, payer recurrence, payment lag, underpayments, authorization denials, coding trends | In development |
 | **AI Voice Calling** | Healthcare conversational workflows, call-state management, outcome capture, enterprise handoffs | In development; integrations project-dependent |
 
-### `[RESEARCH LAB] // FRONTIER EXPLORATIONS`
+<img src="https://img.shields.io/badge/RESEARCH_LAB-FRONTIER_EXPLORATIONS-a855f7?style=for-the-badge&labelColor=12051e" alt="Research lab"/>
 | Research project | Research direction |
 |---|---|
 | **BitForge · 1-bit Edge LLMs** | BitNet b1.58, CUDA/C++, ONNX, ARM and bandwidth-constrained inference for embedded, orbital and air-gapped targets |
@@ -53,7 +70,7 @@ status: BUILDING
 
 *Research projects are exploratory or conceptual, not represented as production deployments.*
 
-### `[PUBLIC REPOSITORY INDEX] // ALL VISIBLE PROJECTS`
+<img src="https://img.shields.io/badge/PROJECT_ARCHIVE-ALL_PUBLIC_REPOSITORIES-00d8ff?style=for-the-badge&labelColor=12051e" alt="Public repository archive"/>
 Every public repository currently visible under this GitHub account is linked below. Names are retained exactly as published; a repository link alone does not imply production readiness.
 
 | Repository | Access |
